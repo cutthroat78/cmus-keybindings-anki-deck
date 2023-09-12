@@ -1,12 +1,12 @@
-# _ Anki Deck
-An anki deck of/for _
+# cmus Keybindings Anki Deck
+An anki deck of/for cmus keybindings
 
 [Download](https://github.com/cutthroat78/Branches-of-Science-Anki-Deck/releases/latest/download/)
 
 ## Note Type(s) Used 
 
-- _
+- Basic
 
 ## Resources Used To Make This Anki Deck
 
-- _
+- [cmus(1) - Linux man page](https://linux.die.net/man/1/cmus)
